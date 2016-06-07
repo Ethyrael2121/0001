@@ -1,2 +1,2 @@
-# Poe Simple loot
+#simple loot filter
 S016716
