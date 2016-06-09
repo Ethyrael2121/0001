@@ -55,11 +55,7 @@ Show
     Rarity Rare
     ItemLevel >= 75
     SetTextColor 0 230 230
-
-#60+ Chaos
-Show
-    ItemLevel >= 60
-    Rarity Rare
+    
 Show
     Rarity Rare
  
@@ -90,8 +86,6 @@ Show
     SetBorderColor 175 96 37
 
 #jewels
-Show
-    BaseType "Talisman"
 Show
     Class "Amulets" "Ring"
     ItemLevel >= 75
